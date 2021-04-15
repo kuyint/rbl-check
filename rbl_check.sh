@@ -21,19 +21,19 @@ asn.routeviews.org aspath.routeviews.org aspews.ext.sorbs.net
 backscatter.spameatingmonkey.net badnets.spameatingmonkey.net 
 bad.psky.me b.barracudacentral.org bb.barracudacentral.org 
 bitonly.dnsbl.bit.nl blackholes.mail-abuse.org blacklist.sci.kun.nl 
-blacklist.woody.ch bl.blocklist.de bl.drmx.org bl.emailbasura.org 
+blacklist.woody.ch bl.blocklist.de bl.drmx.org tor.dnsbl.sectoor.de 
 bl.konstant.no bl.mailspike.net bl.mav.com.br block.dnsbl.sorbs.net 
 bl.rbl-dns.com bl.scientificspam.net bl.score.senderscore.com 
 bl.spamcop.net bl.spameatingmonkey.net bl.spamstinks.com bl.suomispam.net 
 bsb.empty.us bsb.spamlookup.net cbl.abuseat.org cblless.anti-spam.org.cn 
-cblplus.anti-spam.org.cn ccess.redhawk.org cml.anti-spam.org.cn combined.njabl.org 
+cblplus.anti-spam.org.cn ccess.redhawk.org cml.anti-spam.org.cn 
 combined.rbl.msrbl.net csi.cloudmark.com dnsbl-0.uceprotect.net 
 dnsbl-1.uceprotect.net dnsbl.anticaptcha.net dnsbl.aspnet.hu dnsblchile.org 
 dnsbl.cobion.com dnsbl.justspam.org dnsbl.kempt.net dnsbl.madavi.de dnsbl.net.ua 
-dnsbl.openresolvers.org dnsbl.proxybl.org dnsbl.rizon.net dnsbl.rv-soft.info 
+dnsbl.proxybl.org dnsbl.rizon.net dnsbl.rv-soft.info combined.njabl.org 
 dnsbl.rymsho.ru dnsbl.sorbs.net dnsbl.spam-champuru.livedoor.com 
 dnsbl.tornevall.org dnsbl.webequipped.com dnsbl.zapbl.net dnsrbl.org 
-dnsrbl.swinog.ch dnswl.inps.de drone.abuse.ch dsn.bl.rfc-ignorant.de 
+dnsrbl.swinog.ch dnswl.inps.de drone.abuse.ch 
 dsn.rfc-ignorant.org dul.pacifier.net dyna.spamrats.com dynip.rothen.com 
 dyn.nszones.com escalations.dnsbl.sorbs.net eswlrev.dnsbl.rediris.es 
 exitnodes.tor.dnsbl.sectoor.de feb.spamlab.com fnrbl.fast.net forbidden.icm.edu.pl 
@@ -46,29 +46,29 @@ list.bbfh.org list.blogspambl.com list.dnswl.org mail-abuse.blacklist.jippg.org
 mtawlrev.dnsbl.rediris.es netblockbl.spamgrouper.to netblock.pedantic.org 
 netbl.spameatingmonkey.net netscan.rbl.blockedservers.com new.spam.dnsbl.sorbs.net 
 nobl.junkemailfilter.com no-more-funn.moensted.dk noptr.spamrats.com 
-old.spam.dnsbl.sorbs.net opm.tornevall.org origin.asn.cymru.com origin.asn.spameatingmonkey.net 
-orvedb.aupads.org peer.asn.cymru.com phishing.rbl.msrbl.net plus.bondedsender.org 
+old.spam.dnsbl.sorbs.net opm.tornevall.org 
+orvedb.aupads.org  phishing.rbl.msrbl.net plus.bondedsender.org 
 pofon.foobar.hu problems.dnsbl.sorbs.net proxies.dnsbl.sorbs.net psbl.surriel.com 
 query.bondedsender.org rbl2.triumf.ca rbl.abuse.ro rbl.blockedservers.com 
 rbl.dns-servicios.com rbl.efnet.org rbl.fasthosts.co.uk rbl.iprange.net 
-rbl.lugh.ch rbl.megarbl.net rbl-plus.mail-abuse.org rbl.schulte.org rbl.suresupport.com 
+rbl.lugh.ch rbl-plus.mail-abuse.org rbl.schulte.org rbl.suresupport.com 
 rbl.talkactive.net recent.spam.dnsbl.sorbs.net relays.bl.kundenserver.de 
 relays.dnsbl.sorbs.net relays.mail-abuse.org relays.nether.net rep.mailspike.net 
-rhsbl.ahbl.org rsbl.aupads.org sa-accredit.habeas.com safe.dnsbl.sorbs.net 
+rsbl.aupads.org sa-accredit.habeas.com safe.dnsbl.sorbs.net 
 sa.senderbase.org sbl.nszones.com sbl-xbl.spamhaus.org score.senderscore.com 
-service.mailblacklist.com service.mailwhitelist.com singlebl.spamgrouper.com 
+service.mailwhitelist.com singlebl.spamgrouper.com bl.nszones.com list.quorum.to
 singular.ttk.pte.hu sohul.habeas.com spam.dnsbl.anonmails.de spamlist.or.kr 
 spam.pedantic.org spam.rbl.blockedservers.com spam.rbl.msrbl.net spamsources.fabel.dk 
-spam.spamrats.com srn.surgate.net st.technovision.dk swl.spamhaus.org tor.dnsbl.sectoor.de 
+spam.spamrats.com srn.surgate.net st.technovision.dk swl.spamhaus.org 
 tor.efnet.org torexit.dan.me.uk truncate.gbudb.net trusted.nether.net ubl.unsubscore.com 
 unsure.nether.net v4.fullbogons.cymru.com virbl.bit.nl virbl.dnsbl.bit.nl 
 virus.rbl.msrbl.net vote.drbl.caravan.ru vote.drbldf.dsbl.ru vote.drbl.gremlin.ru 
 wadb.isipp.com wbl.triumf.ca web.rbl.msrbl.net whitelist.sci.kun.nl whitelist.surriel.com 
 wl.mailspike.net wl.nszones.com work.drbl.caravan.ru work.drbldf.dsbl.ru 
-work.drbl.gremlin.ru zen.spamhaus.org z.mailspike.net zz.countries.nerd.dk 
-bl.tiopan.com rbl.choon.net rwl.choon.net dnsbl.ahbl.org dnsbl-2.uceprotect.net 
-dnsbl-3.uceprotect.net bl.spamcannibal.org db.wpbl.info korea.services.net 
-dnsbl.inps.de bl.shlink.org wl.shlink.org spamguard.leadmon.net bl.nszones.com list.quorum.to)
+work.drbl.gremlin.ru zen.spamhaus.org z.mailspike.net  
+bl.tiopan.com rbl.choon.net rwl.choon.net dnsbl-2.uceprotect.net 
+dnsbl-3.uceprotect.net db.wpbl.info korea.services.net 
+dnsbl.inps.de bl.shlink.org wl.shlink.org spamguard.leadmon.net )
 
 Version="1.0.0"
 #black list check help func
@@ -130,15 +130,16 @@ for IP in ${IP_LIST[*]}; do
   #////////////////////////////////////////////////////
   revv=$(echo "$IP"| awk -F "." '{print $4"."$3"."$2"."$1}')
   #/////////////////////////////////////////////////////
-  echo "############################################"
   for domain in ${domains[*]}; do
       echo -en "\e[32m \e[1mChecking IP $IP in RBL ${domain}...              \e[0m\r"
       ipcheck=$(dig +short "$revv.${domain}")
+      status=0
       if [[ -n "$ipcheck" ]]; then
-          echo -e "\e[1m\e[31mIP $IP is Blacklisted in ${domain} \e[0m" status code "$ipcheck" | tee -a /tmp/data.mail
+          echo -e "\e[1m\e[31mIP $IP is Blacklisted in ${domain} \e[0m" status code "$ipcheck"
+          status+=1
       fi
   done
+  [[ $status -ne 0 ]] && echo -e "\e[32m\e[1mIP $IP is Not Blacklisted in RBL.... \e[0m"
 done
-
 #//////////////////////////////////////////////////////////////////////////
 ##################################################### end of script ############################################################
