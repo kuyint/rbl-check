@@ -70,7 +70,7 @@ bl.tiopan.com rbl.choon.net rwl.choon.net dnsbl-2.uceprotect.net
 dnsbl-3.uceprotect.net db.wpbl.info korea.services.net 
 dnsbl.inps.de bl.shlink.org wl.shlink.org spamguard.leadmon.net )
 
-Version="1.0.0"
+Version="1.0.1"
 #black list check help func
 Help() {
     printf "help\n"
